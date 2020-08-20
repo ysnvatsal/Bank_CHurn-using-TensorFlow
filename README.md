@@ -1,1 +1,1 @@
-# Bank_CHurn-using-TensorFlow
+# Bank_Churn-using-TensorFlow
